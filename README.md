@@ -17,6 +17,7 @@ https://stackoverflow.com/questions/33999475/prevent-direct-url-access-to-php-fi
 https://stackoverflow.com/questions/356705/how-to-send-a-header-using-a-http-request-through-a-curl-call
 
 ---
+https://stackoverflow.com/questions/1939609/convert-command-line-curl-to-php-curl
 https://incarnate.github.io/curl-to-php/
 
 ```
@@ -27,3 +28,6 @@ PHP
 
 `sudo apt-get install php-curl`
 
+---
+Run PHP cmds
+https://www.php.net/manual/en/function.exec.php
