@@ -12,6 +12,8 @@
 ## Important Links
 
 https://shields.io/category/build
+https://github.com/BraveUX/for-the-badge
+
 
 https://stackoverflow.com/questions/33999475/prevent-direct-url-access-to-php-file/33999539
 https://stackoverflow.com/questions/356705/how-to-send-a-header-using-a-http-request-through-a-curl-call
