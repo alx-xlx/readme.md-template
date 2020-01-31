@@ -59,7 +59,7 @@ https://www.php.net/manual/en/function.exec.php
 ```
 <?php
 
-$url = 'https://api.github.com/repos/alx-xlx/Instagram-Metadata/traffic/clones';
+$url = 'https://api.github.com/repos/alx-xlx/readme.md-template/traffic/clones';
 $ch = curl_init();
 
 curl_setopt($ch, CURLOPT_URL, $url);
