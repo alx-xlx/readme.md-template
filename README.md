@@ -46,7 +46,7 @@ curl -u USERNAME:PASSWORD -H 'Content-Type: application/json; charset=utf-8' -H 
 
 Use the tool (curl-to-php) to convert the above curl code to php (and make sure you add `echo($result);` at the end inside the php code)
 
-[curl-to-php](https://incarnate.github.io/curl-to-php)  ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Fincarnate.github.io%2Fcurl-to-php)
+[curl-to-php](https://incarnate.github.io/curl-to-php) ![Website](https://img.shields.io/website?down_message=down&style=plastic&up_message=up&url=https%3A%2F%2Fincarnate.github.io%2Fcurl-to-php)
 
 ```php
 <?php
