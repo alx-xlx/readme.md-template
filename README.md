@@ -39,11 +39,16 @@ OR
 curl -u USERNAME:PASSWORD -H 'Content-Type: application/json; charset=utf-8' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36' https://api.github.com/repos/alx-xlx/Instagram-Metadata/traffic/clones
 ```
 
-Use the tool below to convert the above curl to php
+Use the tool below to convert the above curl to php (and make sure you add `echo($result);` at the end inside the php code)
 
 https://incarnate.github.io/curl-to-php/
 
-
+```php
+<?php
+--------// COPY PASTE YOUR NEW PHP CODE HERE //--------
+echo($result);
+?>
+```
 ## Make Sure you have Installed `php-curl`
 
 `sudo apt-get install php-curl`
