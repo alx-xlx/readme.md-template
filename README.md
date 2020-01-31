@@ -62,7 +62,7 @@ B. Replace the Variable in Below Code with yours
 
 `USERNAME`, `REPOSITORY`, `GRAPH`
 
-GRAPH  (Replace GRAPH with any one of the following) [Read Here](https://developer.github.com/v3/repos/traffic/)
+GRAPH  (Replace `GRAPH` with any one of the following) [Read Here](https://developer.github.com/v3/repos/traffic/)
 1. `popular/referrers`
 2. `popular/paths`
 3. `views`                  
