@@ -58,10 +58,8 @@ https://www.php.net/manual/en/function.exec.php
 
 ```
 <?php
-
-$url = 'https://api.github.com/repos/alx-xlx/readme.md-template/traffic/clones';
+$url = 'https://api.github.com/repos/USERNAME/REPOSITORY/traffic/clones';
 $ch = curl_init();
-
 curl_setopt($ch, CURLOPT_URL, $url);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
@@ -72,10 +70,8 @@ $headers = array();
 $headers[] = 'Content-Type: application/json; charset=utf-8';
 $headers[] = 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36';
 curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
-
-
 $response = curl_exec($ch);
 curl_close($ch);
 echo($response);
-// var_dump($response);
+?>
 ```
