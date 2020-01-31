@@ -56,15 +56,17 @@ https://www.php.net/manual/en/function.exec.php
 
 ----------
 
-Replace the Variable in Below Code with yours
+A. Make a new `traffic-status.php` file in your SECURE SERVER
+
+B. Replace the Variable in Below Code with yours
 
 `USERNAME`, `REPOSITORY`, `GRAPH`
 
-GRAPH
+GRAPH  (Replace GRAPH with any one of the following) [Read Here](https://developer.github.com/v3/repos/traffic/)
 1. `popular/referrers`
 2. `popular/paths`
-3. `views`                   // Total no of Views
-4. `clones`                  // Total no of Clones
+3. `views`                  
+4. `clones`                
 
 
 ```
@@ -86,3 +88,5 @@ curl_close($ch);
 echo($response);
 ?>
 ```
+
+C. Copy the edited code in your `traffic-status.php` file & save.
