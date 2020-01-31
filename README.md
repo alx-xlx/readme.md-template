@@ -40,21 +40,13 @@ OR
 curl -u USERNAME:PASSWORD https://api.github.com/repos/alx-xlx/Instagram-Metadata/traffic/clones
 ```
 
-PHP
+Make Sure you have Installed `php-curl`
 
 `sudo apt-get install php-curl`
 
 ---
-Run PHP cmds
-https://www.php.net/manual/en/function.exec.php
-
 
 [Traffic API](https://developer.github.com/v3/repos/traffic/)
-
-
-
-
-----------
 
 A. Make a new `traffic-status.php` file in your SECURE ONLINE SERVER
 
