@@ -61,7 +61,13 @@ A. Make a new `traffic-status.php` file in your SECURE ONLINE SERVER
 
 B. Replace the following Variable in Below Code with yours
 
-`USERNAME`, `REPOSITORY`, `GRAPH`
+`USERNAME` - Your Github Username (alx-xlx)
+
+`PASSWORD` - Your Github Password 
+
+`REPOSITORY` - Repository Name (readme.md-template)
+
+`GRAPH` - 
 
 GRAPH  (Replace `GRAPH` with any one of the following) [Read Here](https://developer.github.com/v3/repos/traffic/)
 1. `popular/referrers`
