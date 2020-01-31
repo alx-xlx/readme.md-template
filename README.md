@@ -33,6 +33,8 @@ https://stackoverflow.com/questions/1939609/convert-command-line-curl-to-php-cur
 curl -u USERNAME:PASSWORD https://api.github.com/repos/alx-xlx/Instagram-Metadata/traffic/clones
 ```
 
+OR
+
 ```
 curl -u USERNAME:PASSWORD -H 'Content-Type: application/json; charset=utf-8' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36' https://api.github.com/repos/alx-xlx/Instagram-Metadata/traffic/clones
 ```
