@@ -1,5 +1,7 @@
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 # readme.md-template 
  Beautify you Readme.md File
+
 
 [![GitHub issues](https://img.shields.io/github/issues/alx-xlx/readme.md-template)](https://github.com/alx-xlx/readme.md-template/issues)
 [![GitHub forks](https://img.shields.io/github/forks/alx-xlx/readme.md-template)](https://github.com/alx-xlx/readme.md-template/network)
@@ -15,25 +17,30 @@
 
 ## Important Links
 
-https://shields.io/category/build
-https://github.com/BraveUX/for-the-badge
-
+Badges
+1. [shields.io](https://shields.io/category/build)
+2. [forthebadge.com](https://forthebadge.com/)
 
 https://stackoverflow.com/questions/33999475/prevent-direct-url-access-to-php-file/33999539
+
 https://stackoverflow.com/questions/356705/how-to-send-a-header-using-a-http-request-through-a-curl-call
 
----
 https://stackoverflow.com/questions/1939609/convert-command-line-curl-to-php-curl
-https://incarnate.github.io/curl-to-php/
 
-```
-curl -u USERNAME:PASSWORD -H 'Content-Type: application/json; charset=utf-8' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36' https://api.github.com/repos/alx-xlx/Instagram-Metadata/traffic/clones
-```
 
 ## Syntax
 ```
 curl -u USERNAME:PASSWORD https://api.github.com/repos/alx-xlx/Instagram-Metadata/traffic/clones
 ```
+
+```
+curl -u USERNAME:PASSWORD -H 'Content-Type: application/json; charset=utf-8' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36' https://api.github.com/repos/alx-xlx/Instagram-Metadata/traffic/clones
+```
+
+Use the tool below to convert the above curl to php
+
+https://incarnate.github.io/curl-to-php/
+
 
 ## Make Sure you have Installed `php-curl`
 
