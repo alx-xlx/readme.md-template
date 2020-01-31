@@ -56,7 +56,7 @@ https://www.php.net/manual/en/function.exec.php
 
 ----------
 
-A. Make a new `traffic-status.php` file in your SECURE SERVER
+A. Make a new `traffic-status.php` file in your SECURE ONLINE SERVER
 
 B. Replace the Variable in Below Code with yours
 
@@ -90,7 +90,9 @@ echo($response);
 ```
 
 C. Copy the edited code in your `traffic-status.php` file & save.
+
 D. Now upon visiting the URL of your file you will get the `json` response
+
 E. Goto [shields.io](https://shields.io/) & in the `Dynamic Section`
 1. data type - json
 2. label - your label (any)
