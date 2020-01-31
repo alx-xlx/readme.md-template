@@ -44,7 +44,7 @@ OR
 curl -u USERNAME:PASSWORD -H 'Content-Type: application/json; charset=utf-8' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36' https://api.github.com/repos/alx-xlx/readme.md-template/traffic/clones
 ```
 
-Use the tool below to convert the above curl to php (and make sure you add `echo($result);` at the end inside the php code)
+Use the tool (curl-to-php) below to convert the above curl code to php (and make sure you add `echo($result);` at the end inside the php code)
 
 [curl-to-php](https://incarnate.github.io/curl-to-php)  ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Fincarnate.github.io%2Fcurl-to-php)
 
