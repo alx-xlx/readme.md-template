@@ -95,5 +95,8 @@ E. Goto [shields.io](https://shields.io/) & in the `Dynamic Section`
 1. data type - json
 2. label - your label (any)
 3. data url - URL to your `traffic-status.php`
-4. query - [Read Here](https://developer.github.com/v3/repos/traffic/)
+4. query - [Read Here](https://developer.github.com/v3/repos/traffic/) e.g `count`
+5. color - green (any)
+6. prefix - (leave blank)
+7. suffix - (leave blank)
 
