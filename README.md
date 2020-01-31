@@ -56,9 +56,17 @@ https://www.php.net/manual/en/function.exec.php
 
 ----------
 
+Replace the Variable in Below Code with yours
+
+USERNAME
+
+PASSWORD
+
+GRAPH
+
 ```
 <?php
-$url = 'https://api.github.com/repos/USERNAME/REPOSITORY/traffic/clones';
+$url = 'https://api.github.com/repos/USERNAME/REPOSITORY/traffic/GRAPH';
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL, $url);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
