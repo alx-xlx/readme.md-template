@@ -5,7 +5,13 @@
 # readme.md-template
  Beautify you Readme.md File
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/alx-xlx/Instagram-Metadata?label=Commit%20Activity) ![GitHub last commit](https://img.shields.io/github/last-commit/alx-xlx/Instagram-Metadata?color=success&label=Last%20Commit) ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/alx-xlx/Instagram-Metadata) ![GitHub repo size](https://img.shields.io/github/repo-size/alx-xlx/Instagram-Metadata?color=brightness&label=Repository%20Size)
+[![GitHub issues](https://img.shields.io/github/issues/alx-xlx/readme.md-template)](https://github.com/alx-xlx/readme.md-template/issues)
+[![GitHub forks](https://img.shields.io/github/forks/alx-xlx/readme.md-template)](https://github.com/alx-xlx/readme.md-template/network)
+[![GitHub stars](https://img.shields.io/github/stars/alx-xlx/readme.md-template)](https://github.com/alx-xlx/readme.md-template/stargazers)
+[![GitHub license](https://img.shields.io/github/license/alx-xlx/readme.md-template)](https://github.com/alx-xlx/readme.md-template/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url?label=Github&logo=github&style=social&url=http%3A%2F%2Fgithub.com%2Falx-xlx)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Falx-xlx%2Freadme.md-template)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/alx-xlx/readme.md-template?label=Commit%20Activity) ![GitHub last commit](https://img.shields.io/github/last-commit/alx-xlx/readme.md-template?color=success&label=Last%20Commit) ![GitHub contributors](https://img.shields.io/github/contributors/alx-xlx/readme.md-template?label=Contributors) ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/alx-xlx/readme.md-template) ![GitHub repo size](https://img.shields.io/github/repo-size/alx-xlx/Instagram-Metadata?color=brightness&label=Repository%20Size)
 
 ![Total Clone](https://img.shields.io/badge/dynamic/json?color=brightness&label=Total%20Cloned&query=count&url=https%3A%2F%2Fviralcourse.online%2Ftools%2Fgithub-clone-status%2Fclone-status.php) ![Unique Clone](https://img.shields.io/badge/dynamic/json?color=brightness&label=Unique%20Cloned&query=uniques&url=https%3A%2F%2Fviralcourse.online%2Ftools%2Fgithub-clone-status%2Fclone-status.php) ![Total Views](https://img.shields.io/badge/dynamic/json?color=brightness&label=Total%20Views&query=count&url=https%3A%2F%2Fviralcourse.online%2Ftools%2Fgithub-clone-status%2Fviews-status.php) ![Unique Views](https://img.shields.io/badge/dynamic/json?color=brightness&label=Unique%20Views&query=uniques&url=https%3A%2F%2Fviralcourse.online%2Ftools%2Fgithub-clone-status%2Fviews-status.php)
 
@@ -42,3 +48,17 @@ https://www.php.net/manual/en/function.exec.php
 
 
 https://developer.github.com/v3/repos/traffic/
+
+
+
+
+----------
+
+<!-- [Monitoring]() -->
+Website Up OR DOWN
+
+
+
+<!-- [Activity]() -->
+<a href="https://shields.io/category/activity
+" target="_parent"><img style="display:block;margin-left:auto;margin-right:auto" src="https://i.imgur.com/yPBX7LR.png" alt="Open In Colab"/></a>
