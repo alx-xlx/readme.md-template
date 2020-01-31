@@ -1,4 +1,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+![Discord](https://img.shields.io/discord/655868052860174357?label=Discord&logo=discord)
 # readme.md-template 
  Beautify you Readme.md File
 
@@ -9,7 +11,7 @@
 [![GitHub license](https://img.shields.io/github/license/alx-xlx/readme.md-template)](https://github.com/alx-xlx/readme.md-template/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url?label=Github&logo=github&style=social&url=http%3A%2F%2Fgithub.com%2Falx-xlx)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Falx-xlx%2Freadme.md-template)
 
-![Discord](https://img.shields.io/discord/655868052860174357?label=Discord&logo=discord)
+
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/alx-xlx/readme.md-template?label=Commit%20Activity) ![GitHub last commit](https://img.shields.io/github/last-commit/alx-xlx/readme.md-template?color=success&label=Last%20Commit) ![GitHub contributors](https://img.shields.io/github/contributors/alx-xlx/readme.md-template?label=Contributors) ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/alx-xlx/readme.md-template) ![GitHub repo size](https://img.shields.io/github/repo-size/alx-xlx/readme.md-template)
 
