@@ -31,13 +31,13 @@ https://stackoverflow.com/questions/1939609/convert-command-line-curl-to-php-cur
 https://incarnate.github.io/curl-to-php/
 
 ```
-curl -u user:pass -H 'Content-Type: application/json; charset=utf-8' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36' https://api.github.com/repos/alx-xlx/Instagram-Metadata/traffic/clones
+curl -u USERNAME:PASSWORD -H 'Content-Type: application/json; charset=utf-8' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36' https://api.github.com/repos/alx-xlx/Instagram-Metadata/traffic/clones
 ```
 
 OR
 
 ```
-curl -u user:pass https://api.github.com/repos/alx-xlx/Instagram-Metadata/traffic/clones
+curl -u USERNAME:PASSWORD https://api.github.com/repos/alx-xlx/Instagram-Metadata/traffic/clones
 ```
 
 PHP
@@ -49,18 +49,10 @@ Run PHP cmds
 https://www.php.net/manual/en/function.exec.php
 
 
-https://developer.github.com/v3/repos/traffic/
+[Traffic API](https://developer.github.com/v3/repos/traffic/)
 
 
 
 
 ----------
 
-<!-- [Monitoring]() -->
-Website Up OR DOWN
-
-
-
-<!-- [Activity]() -->
-<a href="https://shields.io/category/activity
-" target="_parent"><img style="display:block;margin-left:auto;margin-right:auto" src="https://i.imgur.com/yPBX7LR.png" alt="Open In Colab"/></a>
