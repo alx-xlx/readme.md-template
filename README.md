@@ -58,11 +58,14 @@ https://www.php.net/manual/en/function.exec.php
 
 Replace the Variable in Below Code with yours
 
-USERNAME
-
-PASSWORD
+`USERNAME`, `REPOSITORY`, `GRAPH`
 
 GRAPH
+1. `popular/referrers`
+2. `popular/paths`
+3. `views`                   // Total no of Views
+4. `clones`                  // Total no of Clones
+
 
 ```
 <?php
