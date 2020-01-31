@@ -1,8 +1,4 @@
-
-
-<a href="https://colab.research.google.com/github/alx-xlx/Instagram-Metadata/blob/master/Instagram-Metadata.ipynb" target="_parent"><img style="display:block;margin-left:auto;margin-right:auto" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-# readme.md-template
+# readme.md-template 
  Beautify you Readme.md File
 
 [![GitHub issues](https://img.shields.io/github/issues/alx-xlx/readme.md-template)](https://github.com/alx-xlx/readme.md-template/issues)
@@ -39,7 +35,7 @@ curl -u USERNAME:PASSWORD -H 'Content-Type: application/json; charset=utf-8' -H 
 curl -u USERNAME:PASSWORD https://api.github.com/repos/alx-xlx/Instagram-Metadata/traffic/clones
 ```
 
-Make Sure you have Installed `php-curl`
+## Make Sure you have Installed `php-curl`
 
 `sudo apt-get install php-curl`
 
