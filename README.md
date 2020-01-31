@@ -18,8 +18,8 @@
 ## Important Links
 
 Badges
-1. [shields.io](https://shields.io/category/build)
-2. [forthebadge.com](https://forthebadge.com/)
+1. [shields.io](https://shields.io/category/build) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Fshields.io)
+2. [forthebadge.com](https://forthebadge.com/) ![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Fforthebadge.com%2F)
 
 https://stackoverflow.com/questions/33999475/prevent-direct-url-access-to-php-file/33999539
 
