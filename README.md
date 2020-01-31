@@ -59,7 +59,7 @@ echo($result);
 
 A. Make a new `traffic-status.php` file in your SECURE ONLINE SERVER
 
-B. Replace the Variable in Below Code with yours
+B. Replace the following Variable in Below Code with yours
 
 `USERNAME`, `REPOSITORY`, `GRAPH`
 
