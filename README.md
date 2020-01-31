@@ -90,3 +90,9 @@ echo($response);
 ```
 
 C. Copy the edited code in your `traffic-status.php` file & save.
+D. Now upon visiting the URL of your file you will get the `json` response
+E. Goto [shields.io](https://shields.io/) & in the `Dynamic Section`
+1. data type - json
+2. label - your label (any)
+3. data url - URL to your `traffic-status.php`
+
