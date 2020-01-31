@@ -26,6 +26,12 @@ https://incarnate.github.io/curl-to-php/
 curl -u user:pass -H 'Content-Type: application/json; charset=utf-8' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36' https://api.github.com/repos/alx-xlx/Instagram-Metadata/traffic/clones
 ```
 
+OR
+
+```
+curl -u user:pass https://api.github.com/repos/alx-xlx/Instagram-Metadata/traffic/clones
+```
+
 PHP
 
 `sudo apt-get install php-curl`
