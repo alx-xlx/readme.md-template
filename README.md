@@ -45,7 +45,7 @@ https://incarnate.github.io/curl-to-php/
 
 ```php
 <?php
---------// COPY PASTE YOUR NEW PHP CODE HERE //--------
+//-------- COPY PASTE YOUR NEW PHP CODE HERE --------//
 echo($result);
 ?>
 ```
