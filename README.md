@@ -29,7 +29,17 @@ https://stackoverflow.com/questions/356705/how-to-send-a-header-using-a-http-req
 
 https://stackoverflow.com/questions/1939609/convert-command-line-curl-to-php-curl -->
 
-## Clone & Views Badges
+
+
+
+
+
+
+
+
+
+
+<!-- ## Clone & Views Badges
 
 Since Clone and Views are restricted to the owner of the Repository, you need to manually configure it.
 
@@ -119,4 +129,4 @@ F. Hope it Worked ?
 
 
 
-
+ -->
