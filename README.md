@@ -15,7 +15,7 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/alx-xlx/readme.md-template?label=Commit%20Activity) ![GitHub last commit](https://img.shields.io/github/last-commit/alx-xlx/readme.md-template?color=success&label=Last%20Commit) ![GitHub contributors](https://img.shields.io/github/contributors/alx-xlx/readme.md-template?label=Contributors) ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/alx-xlx/readme.md-template) ![GitHub repo size](https://img.shields.io/github/repo-size/alx-xlx/readme.md-template)
 
-<!-- ![Total Clone](https://img.shields.io/badge/dynamic/json?color=brightness&label=Total%20Clones&query=count&url=https%3A%2F%2Fviralcourse.online%2Ftools%2Fgithub-clone-status%2Fclone-status.php) ![Unique Clone](https://img.shields.io/badge/dynamic/json?color=brightness&label=Unique%20Clones&query=uniques&url=https%3A%2F%2Fviralcourse.online%2Ftools%2Fgithub-clone-status%2Fclone-status.php) ![Total Views](https://img.shields.io/badge/dynamic/json?color=brightness&label=Total%20Views&query=count&url=https%3A%2F%2Fviralcourse.online%2Ftools%2Fgithub-clone-status%2Fviews-status.php) ![Unique Views](https://img.shields.io/badge/dynamic/json?color=brightness&label=Unique%20Views&query=uniques&url=https%3A%2F%2Fviralcourse.online%2Ftools%2Fgithub-clone-status%2Fviews-status.php) -->
+![Total Clone](https://img.shields.io/badge/dynamic/json?color=brightness&label=Total%20Clones&query=count&url=https%3A%2F%2Fviralcourse.online%2Ftools%2Fgithub-clone-status%2Fclone-status.php) ![Unique Clone](https://img.shields.io/badge/dynamic/json?color=brightness&label=Unique%20Clones&query=uniques&url=https%3A%2F%2Fviralcourse.online%2Ftools%2Fgithub-clone-status%2Fclone-status.php) ![Total Views](https://img.shields.io/badge/dynamic/json?color=brightness&label=Total%20Views&query=count&url=https%3A%2F%2Fviralcourse.online%2Ftools%2Fgithub-clone-status%2Fviews-status.php) ![Unique Views](https://img.shields.io/badge/dynamic/json?color=brightness&label=Unique%20Views&query=uniques&url=https%3A%2F%2Fviralcourse.online%2Ftools%2Fgithub-clone-status%2Fviews-status.php)
 
 ## Important Links
 
@@ -39,7 +39,7 @@ https://stackoverflow.com/questions/1939609/convert-command-line-curl-to-php-cur
 
 
 
-<!-- ## Clone & Views Badges
+## Clone & Views Badges
 
 Since Clone and Views are restricted to the owner of the Repository, you need to manually configure it.
 
@@ -129,4 +129,4 @@ F. Hope it Worked ?
 
 
 
- -->
+
