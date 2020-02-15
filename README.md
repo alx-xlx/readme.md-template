@@ -2,7 +2,7 @@
 
 ![Discord](https://img.shields.io/discord/655868052860174357?label=Discord&logo=discord)
 # readme.md-template 
- Beautify you Readme.md File
+ Beautify your Readme.md File
 
 
 [![GitHub issues](https://img.shields.io/github/issues/alx-xlx/readme.md-template)](https://github.com/alx-xlx/readme.md-template/issues)
